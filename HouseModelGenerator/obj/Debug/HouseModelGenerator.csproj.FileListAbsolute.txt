@@ -1,0 +1,9 @@
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\bin\Debug\HouseModelGenerator.exe.config
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\bin\Debug\HouseModelGenerator.exe
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\bin\Debug\HouseModelGenerator.pdb
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.csprojAssemblyReference.cache
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.Properties.Resources.resources
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.csproj.GenerateResource.cache
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.csproj.CoreCompileInputs.cache
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.exe
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.pdb
