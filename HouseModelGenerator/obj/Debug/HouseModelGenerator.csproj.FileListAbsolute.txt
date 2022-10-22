@@ -7,3 +7,7 @@ F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGener
 F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.csproj.CoreCompileInputs.cache
 F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.exe
 F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.pdb
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\bin\Debug\OpenTK.dll
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\bin\Debug\OpenTK.pdb
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\bin\Debug\OpenTK.xml
+F:\Source_codes\My_projects\Three3dModelGen\ThreeDModelGenerator\HouseModelGenerator\obj\Debug\HouseModelGenerator.csproj.CopyComplete
