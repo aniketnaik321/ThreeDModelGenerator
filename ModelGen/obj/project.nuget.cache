@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyFzmjU5et7VUfcexMYM69RtV2NMTYmA8qjomgBQubcFAQNFkCeFI3zA1ZtFBjJW/PL5iCFMX08UPHVFCG23Ng==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ThreeDModelGenerator\\ModelGen\\ModelGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anike\\.nuget\\packages\\opentk\\4.7.5\\opentk.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.compute\\4.7.5\\opentk.compute.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.core\\4.7.5\\opentk.core.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.graphics\\4.7.5\\opentk.graphics.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.input\\4.7.5\\opentk.input.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.mathematics\\4.7.5\\opentk.mathematics.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.openal\\4.7.5\\opentk.openal.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.30\\opentk.redist.glfw.3.3.8.30.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.windowing.common\\4.7.5\\opentk.windowing.common.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.windowing.desktop\\4.7.5\\opentk.windowing.desktop.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.5\\opentk.windowing.graphicslibraryframework.4.7.5.nupkg.sha512",
+    "C:\\Users\\anike\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
